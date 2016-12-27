@@ -156,4 +156,5 @@ func (t *SimpleChaincode) readPollData(stub shim.ChaincodeStubInterface, args []
 
     return valAsbytes, nil
 }
+	
 
